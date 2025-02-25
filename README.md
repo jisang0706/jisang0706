@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Jisang
+- 💻 Mobile App Developer (Flutter & Android)
+- 🎯 Passionate about Clean Architecture and Best Practices
 
-<!--
-**jisang0706/jisang0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+- **Languages:** Java, Kotlin, Dart
+- **Frameworks:** Flutter
+- **Tools:** Git, VS Code, Android Studio
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Jisang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisang0706&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisang0706&layout=compact&theme=radical)
